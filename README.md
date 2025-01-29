@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/3b9e7b66-da75-48d3-9ddb-253ad9ee216e)
+" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Madan</h1>
 <h3 align="center">I am a third year B.E AI-ML student with a CGPA of 7.6 .I have strong foundation as well as interest to learn and face new challenges on full-stack development, with knowledge of C++, Python, Java.</h3>
 
