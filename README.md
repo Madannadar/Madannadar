@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/3b9e7b66-da75-48d3-9ddb-253ad9ee216e)
-" alt="Banner" width="100%" />
+  <img src="madan.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Madan</h1>
