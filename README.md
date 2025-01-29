@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madannadar" alt="madannadar" /></a> </p>
 
-- 🔭 I’m currently working on **Pintrest Clone**
+- 🔭 I’m currently studying at SIES TE_AIML**
 
 - 🌱 I’m currently learning **NextJs,**
 
