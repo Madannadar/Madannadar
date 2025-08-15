@@ -11,7 +11,9 @@
 
 - 🌱 I’m currently learning **NextJs,**
 
-- 👨‍💻 All of my projects are available at [https://madanportfoliosite.vercel.app/](https://madanportfoliosite.vercel.app/)
+- 😎 More about by work [https://madanportfoliosite.vercel.app/](https://madanportfoliosite.vercel.app/)
+  
+- 👨‍💻 Leetcode [https://madanportfoliosite.vercel.app/](https://madanportfoliosite.vercel.app/)
 
 - 💬 Ask me about **JavaScript, React, Web**
 
