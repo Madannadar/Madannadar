@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Madan</h1>
-<h3 align="center">I am a B.E. AI-ML student with a CGPA of 7.8, possessing a strong foundation in C++, Python, and a keen interest in full-stack development and blockchain. I am eager to learn, adapt, and tackle new challenges in the ever-evolving tech landscape.</h3>
+<h3 align="center">I am a B.E. AI-ML student with a CGPA of 7.7, possessing a strong foundation in C++, Python, and a keen interest in full-stack development and blockchain. I am eager to learn, adapt, and tackle new challenges in the ever-evolving tech landscape.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madannadar" alt="madannadar" /></a> </p>
 
